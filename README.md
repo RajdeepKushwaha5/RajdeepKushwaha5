@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Data Science .
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me (please don't).
-- 😄 Pronouns: -
-- ⚡ Fun fact: -
+- 😄 Pronouns: -he/him
+
 
 <!---
 RajdeepKushwaha5/RajdeepKushwaha5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
