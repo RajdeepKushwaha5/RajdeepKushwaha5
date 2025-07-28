@@ -34,6 +34,11 @@
 
 ### 📊 Stats:
 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&layout=compact&theme=transparent" alt="RajdeepKushwaha5" />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RajdeepKushwaha5&show_icons=true&locale=en&theme=transparent" alt="RajdeepKushwaha5" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RajdeepKushwaha5&theme=transparent" alt="RajdeepKushwaha5" /></p>
 
 
 <!---
