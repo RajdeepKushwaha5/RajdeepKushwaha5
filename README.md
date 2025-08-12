@@ -41,9 +41,6 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RajdeepKushwaha5&theme=transparent" alt="RajdeepKushwaha5" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RajdeepKushwaha5)](https://git.io/streak-stats)
-
-<p><img src="https://streak-stats.demolab.com/?user=RajdeepKushwaha5&theme=transparent" height="180em" align="center" alt="RajdeepKushwaha5" /></p>
 
 <!---
 RajdeepKushwaha5/RajdeepKushwaha5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
