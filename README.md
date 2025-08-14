@@ -28,10 +28,11 @@
   <a href="https://medium.com/@rajdeep01" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
- <!-- Gmail -->
-  <a href="mailto:rajdeepsingh10789@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />
-  </a>
+<!-- Gmail -->
+<a href="mailto:rajdeepsingh10789@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.png" alt="Gmail" height="30" width="40" />
+</a>
+
 
 </p>
 
