@@ -17,6 +17,38 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rajdeepkushwaha5" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/dobby1089/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="dobby1089" height="30" width="40" /></a> 
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/dobby1089/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/YOUR_USERNAME" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/twitter.svg" alt="X" height="30" width="40" />
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@YOUR_USERNAME" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/YOUR_USERNAME" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:yourmail@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
+
 
 
 
