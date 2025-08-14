@@ -15,15 +15,10 @@
 ### 🔗 Connect with me:
   
 <p align="left">
+ <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rajdeepkushwaha5" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/dobby1089/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="dobby1089" height="30" width="40" /></a> 
-<p align="left">
-  <!-- LinkedIn -->
- 
 
-  <!-- LeetCode -->
   
-
   <!-- X (Twitter) -->
   <a href="https://x.com/rajdeeptwts" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/twitter.svg" alt="X" height="30" width="40" />
@@ -39,10 +34,6 @@
   </a>
 </p>
 
-
-
-
-</p>
 
 ### 💻 Tech Stack:
 
