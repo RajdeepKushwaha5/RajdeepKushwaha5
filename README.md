@@ -25,13 +25,14 @@
   </a>
 
   <!-- Medium -->
-  <a href="https://medium.com/rajdeep01" target="blank">
+  <a href="https://medium.com/@rajdeep01" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
   <!-- Gmail -->
-  <a href="rajdeepsingh10789@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
+<a href="rajdeepsingh10789@gmail.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
+
 </p>
 
 
