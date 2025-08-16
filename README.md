@@ -8,6 +8,10 @@
 - 📝 I regularly write articles on **https://medium.com/@rajdeep01**
 - 📄 Know about my experiences ****
 
+![Profile Views](https://komarev.com/ghpvc/?username=RajdeepKushwaha5&label=Profile%20views&color=0e76a8&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/RajdeepKushwaha5?label=Followers&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/RajdeepKushwaha5?label=Stars&color=yellow)
+
 <div> <a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/RajdeepKushwaha5" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
  <a href="https://x.com/rajdeeptwts" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
