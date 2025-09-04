@@ -7,7 +7,7 @@
 - 📫 How to reach me **https://rajdeep-portfolio-website-eight-sable.vercel.app/**
 - 👨‍💻 All of my projects are available at **https://github.com/RajdeepKushwaha5**
 - 📝 I regularly write articles on **https://medium.com/@rajdeep01**
-- 📄 Know about my experiences ****
+- 📄 Know about my experiences **https://drive.google.com/file/d/1dWRhT2GSx4StZk2kqGU2UpJLNZCVnuoA/view**
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RajdeepKushwaha5&label=Profile%20views&color=0e76a8&style=flat)
