@@ -64,27 +64,6 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RajdeepKushwaha5&theme=transparent" alt="RajdeepKushwaha5" /></p>
 
-<h2>Hello there! My name is Nitesh Singh.</h2>
-
-<p align="start">
-  <img src="https://profile-counter.glitch.me/{Nitesh-Singh-5}/count.svg" alt="Visitor Count" width="180" height="24" />
-</p>
-
-<p>I'm a frontend and mobile app developer with a passion for creating beautiful and intuitive web and mobile app experiences. I have more than 2 years of experience in designing and developing applications. I also have a solid foundation in backend development.
-</br>
-</br>
-My expertise lies in creating responsive layouts, optimizing website performance and ensuring cross browser compatibility. I'm proficient in user experience design principles and aim to design interfaces that are both visually appealing and easy to use.
-</br>
-</br>
-Having knowledge of backend development allows me to seamlessly integrate frontend designs with robust backend functionalities, ensuring the smooth operation of web and mobile applications. You can also find me interested in Machine Learning.
-</p>
-
-
-
-### 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://twitter.com/nitesh_singh5)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitesh-singh-2001) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/btw_im_nitesh)
-
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
