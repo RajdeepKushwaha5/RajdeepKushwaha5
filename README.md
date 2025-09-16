@@ -64,14 +64,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&layout=compact&theme=transparent" alt="RajdeepKushwaha5 Top Languages" />
 </div>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&layout=compact&theme=transparent" alt="RajdeepKushwaha5" />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RajdeepKushwaha5&show_icons=true&locale=en&theme=transparent" alt="RajdeepKushwaha5" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RajdeepKushwaha5&theme=transparent" alt="RajdeepKushwaha5" /></p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&count_private=true&show_icons=true&theme=dark)
-
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RajdeepKushwaha5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
