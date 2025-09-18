@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Singh</h1>
-<h3 align="center">A Full Stack Developer & Blockchain Enthusiast </h3>
+<h3 align="center">A Full-Stack Web & Blockchain Developer </h3>
 
 
 - 🌱 I’m currently learning **Blockchain Technology**
