@@ -60,16 +60,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajdeepKushwaha5&show_icons=true&locale=en&theme=transparent" alt="RajdeepKushwaha5 GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&layout=compact&theme=transparent" alt="RajdeepKushwaha5 Top Languages" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RajdeepKushwaha5&theme=transparent" alt="RajdeepKushwaha5 Streak Stats" />
-</div>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&layout=compact&theme=transparent" alt="RajdeepKushwaha5 Top Languages" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&layout=compact&theme=dark" alt="RajdeepKushwaha5 Top Languages" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&layout=compact&theme=radical" alt="RajdeepKushwaha5 Top Languages" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&layout=compact&theme=transparent&hide_border=false" alt="RajdeepKushwaha5 Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajdeepKushwaha5&show_icons=true&locale=en&theme=radical" alt="RajdeepKushwaha5 GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&layout=compact&theme=radical" alt="RajdeepKushwaha5 Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RajdeepKushwaha5&theme=radical" alt="RajdeepKushwaha5 Streak Stats" />
 </div>
 
 ### 🏆 GitHub Trophies
