@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
-- 📫 How to reach me **https://rajdeep-portfolio-website-eight-sable.vercel.app/**
+- 📫 How to reach me **https://rajdeep-singh.vercel.app/**
 - 👨‍💻 All of my projects are available at **https://github.com/RajdeepKushwaha5**
 - 📝 I regularly write articles on **https://medium.com/@rajdeep01**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1dWRhT2GSx4StZk2kqGU2UpJLNZCVnuoA/view**
