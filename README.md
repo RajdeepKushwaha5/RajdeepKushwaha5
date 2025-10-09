@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Singh</h1>
 <h3 align="center">Full-Stack Web & Blockchain Developer </h3>
 
-![Exist.io Counter](https://exist-io.vercel.app/api/image?username=Rajdeep%20Singh%20&birthdate=2005-05-01&theme=matrix)
-
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
