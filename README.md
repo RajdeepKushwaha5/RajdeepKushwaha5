@@ -65,6 +65,10 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RajdeepKushwaha5&theme=radical" alt="RajdeepKushwaha5 Streak Stats" />
 </div>
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajdeepKushwaha5&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/RajdeepKushwaha5/github-readme-activity-graph" align= "center">
+
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RajdeepKushwaha5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
