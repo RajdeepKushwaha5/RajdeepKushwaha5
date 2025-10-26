@@ -69,11 +69,11 @@
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajdeepKushwaha5&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/RajdeepKushwaha5/github-readme-activity-graph" align= "center">
----
 
+---
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RajdeepKushwaha5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+[![October Commits](https://github-readme-stats.vercel.app/api?username=RajdeepKushwaha5&count_private=true&theme=radical)](https://github.com/RajdeepKushwaha5)
 ---
 <img src="https://github.com/RajdeepKushwaha5/RajdeepKushwaha5/blob/main/images/tech_image.png" alt="image showing tech logos"/>
 
