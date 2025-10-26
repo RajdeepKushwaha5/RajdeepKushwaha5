@@ -73,6 +73,8 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RajdeepKushwaha5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ![](https://trophy.github-readme-stats.vercel.app/?username=RajdeepKushwaha5&theme=radical&no-frame=true&margin-w=4)
+### 🏆 GitHub Trophies
+![Trophies](https://trophy.github-readme-stats.vercel.app/?username=RajdeepKushwaha5&theme=radical&no-bg=true&no-frame=true&margin-w=4)
 
 ---
 
