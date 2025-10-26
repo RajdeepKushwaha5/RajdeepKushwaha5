@@ -38,13 +38,13 @@
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 <!-- Gmail -->
-<!-- Gmail -->
 <a href="mailto:rajdeepsingh10789@gmail.com" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40" />
 </a>
 </p>
 
 
+---
 ### 💻 Tech Stack:
 
 | Category                | Tools                                                                                                                                                   |
@@ -57,6 +57,7 @@
 | Cloud & Hosting         | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) |
 | Blockchain & Web3       | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-3D3D3D?style=for-the-badge&logo=solana&logoColor=00FFB3) |
 
+---
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -68,7 +69,7 @@
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajdeepKushwaha5&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/RajdeepKushwaha5/github-readme-activity-graph" align= "center">
-
+---
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RajdeepKushwaha5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
