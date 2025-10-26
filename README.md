@@ -66,11 +66,12 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajdeepKushwaha5&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" />
 
 ---
-### 🏆 GitHub Trophies
+### GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=RajdeepKushwaha5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![RajdeepKushwaha5's Holopin board](https://holopin.me/rajdeepkushwaha5)](https://holopin.io/@rajdeepkushwaha5)
+### Holopin Badges 
+[![An image of @rajdeepkushwaha5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeepkushwaha5)](https://holopin.io/@rajdeepkushwaha5)
 
 ---
 <img src="https://github.com/RajdeepKushwaha5/RajdeepKushwaha5/blob/main/images/tech_image.png" alt="image showing tech logos"/>
