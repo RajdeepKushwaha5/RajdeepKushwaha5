@@ -16,11 +16,6 @@
 
 
 
-<div> <a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/RajdeepKushwaha5" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
- <a href="https://x.com/rajdeeptwts" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</div>
-
 ### 🔗 Connect with me:
   
 <p align="left">
