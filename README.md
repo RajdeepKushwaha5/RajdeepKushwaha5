@@ -70,7 +70,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=RajdeepKushwaha5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![RajdeepKushwaha5's Holopin board](https://holopin.me/RajdeepKushwaha5)](https://holopin.io/@RajdeepKushwaha5)
+[![RajdeepKushwaha5's Holopin board](https://holopin.me/rajdeepkushwaha5)](https://holopin.io/@rajdeepkushwaha5)
+
+---
 <img src="https://github.com/RajdeepKushwaha5/RajdeepKushwaha5/blob/main/images/tech_image.png" alt="image showing tech logos"/>
 
 
