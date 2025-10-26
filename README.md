@@ -68,7 +68,6 @@
 </div>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajdeepKushwaha5&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/RajdeepKushwaha5/github-readme-activity-graph" align= "center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajdeepKushwaha5&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" />
 
 ---
