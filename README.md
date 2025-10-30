@@ -19,23 +19,25 @@
 ### 🔗 Connect with me:
   
 <p align="left">
- <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rajdeepkushwaha5" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="30" />
+  </a>
 
-  
   <!-- X (Twitter) -->
-<a href="https://x.com/rajdeeptwts" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" height="30" width="30" />
-</a>
+  <a href="https://x.com/rajdeeptwts" target="_blank">
+    <img src="https://cdn.simpleicons.org/x" alt="X" height="30" />
+  </a>
 
   <!-- Medium -->
-  <a href="https://medium.com/@rajdeep01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/medium.svg" alt="Medium" height="30" width="40" />
+  <a href="https://medium.com/@rajdeep01" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium" alt="Medium" height="30" />
   </a>
-<!-- Gmail -->
-<a href="mailto:rajdeepsingh10789@gmail.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40" />
-</a>
+
+  <!-- Gmail -->
+  <a href="mailto:rajdeepsingh10789@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" />
+  </a>
 </p>
 
 
