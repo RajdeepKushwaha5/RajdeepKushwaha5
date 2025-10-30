@@ -32,10 +32,10 @@
   <a href="https://medium.com/@rajdeep01  " target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/medium.svg  " alt="Medium" height="30" width="40" />
   </a>
-<!-- Gmail -->
-<a href="mailto:rajdeepsingh10789@gmail.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg  " alt="Gmail" height="30" width="40" />
-</a>
+ <!-- Gmail -->
+  <a href="mailto:rajdeepsingh10789@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" />
+  </a>
 </p>
 
 ---
