@@ -24,9 +24,9 @@
 
   
   <!-- X (Twitter) -->
-  <a href="https://x.com/rajdeeptwts" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/twitter.svg" alt="X" height="30" width="40" />
-  </a>
+<a href="https://x.com/rajdeeptwts" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" height="30" width="30" />
+</a>
 
   <!-- Medium -->
   <a href="https://medium.com/@rajdeep01" target="blank">
