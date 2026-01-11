@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Rajdeep 👋 I'm a 🚀 Full Stack developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1200&color=22C55E&center=true&vCenter=true&width=550&lines=Rajdeep+Singh+Kushwaha;Full+Stack+%7C+AI+Engineer;Building+Scalable+Products" />
+</p>
 - 🌱 I’m currently learning **Blockchain Technology**
 
 - 📫 How to reach me **https://rajdeep-singh.vercel.app/**
