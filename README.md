@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Singh</h1>
 <h3 align="center">Full-Stack Web & Blockchain Developer </h3>
-
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Rajdeep 👋 I'm a 🚀 Full Stack developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
