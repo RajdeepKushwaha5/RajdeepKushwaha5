@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Singh</h1>
 
 <h3 align="center">
-  Full-Stack Web • AI • Blockchain Developer
+  Full Stack Developer • Web3 Developer • AI Engineer • Open Source Contributor 
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=550&lines=Building+Scalable+Web+%26+AI+Products;Open+Source+Contributor;Hackathon+Winner" />
-</p>
-
-<p align="center">
-  Full Stack Developer • AI Engineer • Open Source Contributor
 </p>
 
 - 🌱 I’m currently learning **Blockchain Technology**
