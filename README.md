@@ -71,12 +71,7 @@
   <br>
 </div>
 
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajdeepKushwaha5&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" />
-
----
-### 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=RajdeepKushwaha5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 ### 🎖️ Holopin Badges 
