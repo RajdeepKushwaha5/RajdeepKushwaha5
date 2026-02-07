@@ -16,35 +16,22 @@
 - 📄 Know about my experiences **https://drive.google.com/file/d/1dWRhT2GSx4StZk2kqGU2UpJLNZCVnuoA/view**
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=RajdeepKushwaha5&label=Profile%20views&color=0e76a8&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/RajdeepKushwaha5?label=Followers&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/RajdeepKushwaha5?label=Stars&color=yellow)
-
-
-
-### 🔗 Connect with me:
-  
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
-  </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/rajdeeptwts" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" height="30" />
-  </a>
-
-  <!-- Medium -->
-  <a href="https://medium.com/@rajdeep01" target="_blank">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/medium.svg" alt="Medium" height="30" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:rajdeepsingh10789@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RajdeepKushwaha5&label=PROFILE+VIEWS&style=for-the-badge&color=22c55e" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/RajdeepKushwaha5?label=FOLLOWERS&style=for-the-badge&logo=github&color=22c55e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/RajdeepKushwaha5?label=TOTAL+STARS&style=for-the-badge&logo=github&color=22c55e" alt="Stars" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Connect+with+me" />
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp;
+<a href="https://x.com/rajdeeptwts" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a> &nbsp;
+<a href="https://medium.com/@rajdeep01" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a> &nbsp;
+<a href="mailto:rajdeepsingh10789@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
 
 ---
 ### 💻 Tech Stack:
@@ -66,14 +53,15 @@
   <img width="90%" src="https://renatocf-github-readme-streak-stats.vercel.app/api?user=RajdeepKushwaha5&date_format=Y.m.d&card_width=710" />
   <img width="56%" src="https://renatocf-github-readme-stats.vercel.app/api?username=RajdeepKushwaha5&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews" />
   <img width="33%" src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=0.5&hide=plpgsql,scss&langs_count=12" />
-  <img width="90%" src="https://renatocf-github-profile-trophy.vercel.app/?username=renatocf&margin-w=4&margin-h=4&column=5&&rank=-?" />
- <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=RajdeepKushwaha5&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-  
-  <img src="https://github-readme-streak-stats-ten-topaz.vercel.app/?user=RajdeepKushwaha5&theme=radical&hide_border=true" />
-  <br>
+  <img width="90%" src="https://renatocf-github-profile-trophy.vercel.app/?username=RajdeepKushwaha5&margin-w=4&margin-h=4&column=5&&rank=-?" />
 </div>
+  <p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=RajdeepKushwaha5&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" width="90%" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajdeepKushwaha5&theme=github-light&area=true&hide_border=true" alt="Activity Graph" width="90%" />
+  </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajdeepKushwaha5&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" />
 
 ---
 ### 🎖️ Holopin Badges 
