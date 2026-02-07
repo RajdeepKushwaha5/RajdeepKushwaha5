@@ -63,7 +63,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  
+  <img width="90%" src="https://renatocf-github-readme-streak-stats.vercel.app/api?user=RajdeepKushwaha5&date_format=Y.m.d&card_width=710" />
+  <img width="56%" src="https://renatocf-github-readme-stats.vercel.app/api?username=RajdeepKushwaha5&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews" />
+  <img width="33%" src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKushwaha5&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=0.5&hide=plpgsql,scss&langs_count=12" />
+  <img width="90%" src="https://renatocf-github-profile-trophy.vercel.app/?username=renatocf&margin-w=4&margin-h=4&column=5&&rank=-?" />
  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=RajdeepKushwaha5&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
   
   <img src="https://github-readme-streak-stats-ten-topaz.vercel.app/?user=RajdeepKushwaha5&theme=radical&hide_border=true" />
