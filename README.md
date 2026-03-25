@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=550&lines=Building+Scalable+Web+%26+AI+Products;Open+Source+Contributor;Hackathon+Winner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=550&lines=Building+Scalable+Web+%26+AI+Products;Open+Source+Contributor;2x+Hackathon+Winner" />
 </p>
 
 - 🌱 I’m currently learning **Blockchain Technology**
