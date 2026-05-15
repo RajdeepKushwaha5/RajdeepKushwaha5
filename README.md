@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Singh</h1>
 
 <h3 align="center">
-  Full Stack Developer • AI Engineer • Open Source Contributor 
+  Full Stack Developer • AI/ML Engineer • Open Source Contributor 
 </h3>
 
 <p align="center">
