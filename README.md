@@ -12,10 +12,6 @@
   <img src="./assets/now.svg" width="100%" alt="Now: building scalable web and AI products, contributing to open source, learning blockchain technology" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Connect+with+me" />
-</p>
-
 ---
 ### 💻 Tech Stack:
 
@@ -36,12 +32,4 @@
 <p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajdeepKushwaha5&theme=github_dark" alt="Rajdeep Singh — GitHub profile summary" />
 </p>
-
----
-### 🎖️ Holopin Badges 
-[![An image of @rajdeepkushwaha5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeepkushwaha5)](https://holopin.io/@rajdeepkushwaha5)
-
----
-<img src="https://github.com/RajdeepKushwaha5/RajdeepKushwaha5/blob/main/images/tech_image.png" alt="image showing tech logos"/>
-
 
