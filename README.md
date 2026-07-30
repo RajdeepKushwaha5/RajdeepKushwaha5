@@ -15,13 +15,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Connect+with+me" />
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp;
-<a href="https://x.com/rajdeeptwts" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a> &nbsp;
-<a href="https://medium.com/@rajdeep01" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a> &nbsp;
-<a href="mailto:rajdeepsingh10789@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
 
 ---
 ### 💻 Tech Stack:
