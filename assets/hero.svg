@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="222" viewBox="0 0 1120 222" role="img" aria-label="Rajdeep Singh / full-stack &amp; AI engineer — build boldly, ship relentlessly.">
+  <rect width="1120" height="222" fill="#0d1117"/>
+
+  <text x="50" y="26"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="10" letter-spacing="1.7"
+        fill="#7d8590">RAJDEEP SINGH / FULL-STACK &amp; AI ENGINEER</text>
+
+  <line x1="48" y1="44" x2="1072" y2="44" stroke="#21262d" stroke-width="1"/>
+
+  <text x="48" y="134"
+        font-family="Georgia, 'Times New Roman', 'Playfair Display', serif"
+        font-size="56" font-style="italic" font-weight="700"
+        fill="#f0f6fc">build boldly, ship relentlessly.</text>
+
+  <text x="50" y="176"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="15" letter-spacing="0.4"
+        fill="#8b949e">full-stack + ai/ml engineer. scalable products, open source, and details that ship.</text>
+
+  <line x1="48" y1="212" x2="1072" y2="212" stroke="#21262d" stroke-width="1"/>
+</svg>

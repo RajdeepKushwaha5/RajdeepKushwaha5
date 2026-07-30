@@ -1,20 +1,19 @@
-<h1 align="center">Hi 👋, I'm Rajdeep Singh</h1>
-
-<h3 align="center">
-  Full Stack Developer • AI/ML Engineer • Open Source Contributor 
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=550&lines=Building+Scalable+Web+%26+AI+Products;Open+Source+Contributor;7x+Global+Hackathon+Winner" />
+  <img src="./assets/hero.svg" alt="Rajdeep Singh — build boldly, ship relentlessly" width="100%" />
 </p>
 
-- 🌱 I’m currently learning **Blockchain Technology**
+<p align="center">
+  <a href="https://rajdeep-singh.vercel.app/"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio — rajdeep-singh.vercel.app" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Rajdeep Singh" /></a>&nbsp;
+  <a href="https://x.com/rajdeeptwts"><img src="./assets/link-x.svg" width="31.5%" alt="X — @rajdeeptwts" /></a>
+</p>
 
-- 📫 How to reach me **https://rajdeep-singh.vercel.app/**
-- 👨‍💻 All of my projects are available at **https://github.com/RajdeepKushwaha5**
+<p align="center">
+  <img src="./assets/now.svg" width="100%" alt="Now: building scalable web and AI products, contributing to open source, learning blockchain technology" />
+</p>
+
 - 📝 I regularly write articles on **https://medium.com/@rajdeep01**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1dWRhT2GSx4StZk2kqGU2UpJLNZCVnuoA/view**
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RajdeepKushwaha5&label=PROFILE+VIEWS&style=for-the-badge&color=22c55e" alt="Profile Views" />
@@ -46,6 +45,13 @@
 | DevOps & Tools          | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) |
 | Cloud & Hosting         | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) |
 | Blockchain & Web3       | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-3D3D3D?style=for-the-badge&logo=solana&logoColor=00FFB3) |
+
+---
+### 🧾 Profile Summary
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajdeepKushwaha5&theme=github_dark" alt="Rajdeep Singh — GitHub profile summary" />
+</p>
 
 ---
 ### 📊 GitHub Stats

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="96" viewBox="0 0 352 96" role="img" aria-label="X — @rajdeeptwts">
+  <rect width="352" height="96" fill="#0d1117"/>
+  <rect x="1.5" y="1.5" width="349" height="93" rx="10" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+
+  <rect x="24" y="30" width="36" height="36" rx="8" fill="#000000" stroke="#30363d" stroke-width="1"/>
+  <g transform="translate(33,39) scale(0.75)" fill="#ffffff">
+    <path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932zM17.61 20.644h2.039L6.486 3.24H4.298z"/>
+  </g>
+
+  <text x="74" y="43"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="10" letter-spacing="1.7" fill="#7d8590">BUILDING IN PUBLIC</text>
+  <text x="74" y="66"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="14" font-weight="700" fill="#e6edf3">@rajdeeptwts</text>
+
+  <g stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M322 54 L332 44"/>
+    <path d="M324.5 44 H332 V51.5"/>
+  </g>
+</svg>

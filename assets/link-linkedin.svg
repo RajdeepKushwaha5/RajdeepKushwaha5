@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="96" viewBox="0 0 352 96" role="img" aria-label="LinkedIn — Rajdeep Singh">
+  <rect width="352" height="96" fill="#0d1117"/>
+  <rect x="1.5" y="1.5" width="349" height="93" rx="10" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+
+  <rect x="24" y="30" width="36" height="36" rx="8" fill="#0a66c2"/>
+  <g transform="translate(33.5,39) scale(0.75)" fill="#ffffff">
+    <path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM0 8h5v16H0V8zm7.5 0h4.8v2.2h.07c.67-1.2 2.3-2.5 4.73-2.5 5.06 0 6 3.13 6 7.2V24h-5v-7.5c0-1.8-.03-4.1-2.6-4.1-2.6 0-3 2-3 4v7.6h-5V8z"/>
+  </g>
+
+  <text x="74" y="43"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="10" letter-spacing="1.7" fill="#7d8590">LINKEDIN</text>
+  <text x="74" y="66"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="14" font-weight="700" fill="#e6edf3">Rajdeep Singh</text>
+
+  <g stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M322 54 L332 44"/>
+    <path d="M324.5 44 H332 V51.5"/>
+  </g>
+</svg>

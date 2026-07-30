@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="104" viewBox="0 0 1120 104" role="img" aria-label="Now: building scalable web and AI products, contributing to open source, learning blockchain technology">
+  <rect width="1120" height="104" fill="#0d1117"/>
+
+  <text x="50" y="36"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="10" letter-spacing="1.7" fill="#7d8590">BUILDING</text>
+  <text x="50" y="64"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="15" fill="#e6edf3">scalable web &amp; AI products</text>
+
+  <line x1="392" y1="14" x2="392" y2="80" stroke="#21262d" stroke-width="1"/>
+
+  <text x="426" y="36"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="10" letter-spacing="1.7" fill="#7d8590">CONTRIBUTING</text>
+  <text x="426" y="64"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="15" fill="#e6edf3">Open Source</text>
+
+  <line x1="768" y1="14" x2="768" y2="80" stroke="#21262d" stroke-width="1"/>
+
+  <text x="802" y="36"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="10" letter-spacing="1.7" fill="#7d8590">LEARNING</text>
+  <text x="802" y="64"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="15" fill="#e6edf3">Blockchain Technology</text>
+
+  <line x1="48" y1="96" x2="1072" y2="96" stroke="#21262d" stroke-width="1"/>
+</svg>

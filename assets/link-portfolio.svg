@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="96" viewBox="0 0 352 96" role="img" aria-label="Portfolio — rajdeep-singh.vercel.app">
+  <rect width="352" height="96" fill="#0d1117"/>
+  <rect x="1.5" y="1.5" width="349" height="93" rx="10" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+
+  <circle cx="42" cy="48" r="18" fill="#22c55e"/>
+  <rect x="40.5" y="39" width="3" height="18" rx="1.5" fill="#0d1117"/>
+  <rect x="33" y="46.5" width="18" height="3" rx="1.5" fill="#0d1117"/>
+
+  <text x="74" y="43"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="10" letter-spacing="1.7" fill="#7d8590">PORTFOLIO</text>
+  <text x="74" y="66"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="14" font-weight="700" fill="#e6edf3">rajdeep-singh.vercel.app</text>
+
+  <g stroke="#6e7681" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M322 54 L332 44"/>
+    <path d="M324.5 44 H332 V51.5"/>
+  </g>
+</svg>
