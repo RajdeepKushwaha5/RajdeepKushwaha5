@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://medium.com/@rajdeep01"><img src="./assets/link-medium.svg" width="31.5%" alt="Medium — @rajdeep01" /></a>&nbsp;
+  <a href="https://discord.com/users/993454036751745125"><img src="./assets/link-discord.svg" width="31.5%" alt="Discord — rjdp0101" /></a>&nbsp;
+  <a href="mailto:rajdeepsingh10789@gmail.com"><img src="./assets/link-gmail.svg" width="31.5%" alt="Email — rajdeepsingh10789@gmail.com" /></a>
+</p>
+
+<p align="center">
   <img src="./assets/now.svg" width="100%" alt="Now: building scalable web and AI products, contributing to open source, learning blockchain technology" />
 </p>
 
