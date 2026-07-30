@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="683" viewBox="0 0 1120 683" role="img" aria-label="Tech stack: LANGUAGES — Python, TypeScript, JavaScript, C, C++, Rust, SQL, HTML5, CSS3, Shell; MARKUP — Markdown, LaTeX; FRAMEWORKS — Next.js, React, Svelte, Tailwind CSS, Node.js, Express, Socket.io, Electron, LangChain, Flask; DATABASES — PostgreSQL, MongoDB, MySQL, Redis, Prisma; ML and DATA — PyTorch, Hugging Face, ONNX, TensorFlow, Keras, scikit-learn, NumPy, Pandas, Matplotlib, OpenCV; DEVOPS — Docker, Git, Linux, Postman, Vitest, Playwright; CLOUD — AWS, Vercel, Netlify, Cloudflare, Firebase, Render; WEB3 — Solidity, Ethereum, Solana">
+  <rect width="1120" height="683" fill="#0d1117"/>
+  <text x="50" y="45.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">LANGUAGES</text>
+  <rect x="282.5" y="26.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="298.5" cy="41.0" r="3.5" fill="#3776ab"/>
+  <text x="311.0" y="45.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Python</text>
+  <rect x="378.9" y="26.5" width="116.6" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="394.9" cy="41.0" r="3.5" fill="#3178c6"/>
+  <text x="407.4" y="45.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">TypeScript</text>
+  <rect x="505.5" y="26.5" width="116.6" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="521.5" cy="41.0" r="3.5" fill="#f7df1e"/>
+  <text x="534.0" y="45.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">JavaScript</text>
+  <rect x="632.1" y="26.5" width="48.6" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="648.1" cy="41.0" r="3.5" fill="#00599c"/>
+  <text x="660.6" y="45.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">C</text>
+  <rect x="690.6" y="26.5" width="63.7" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="706.6" cy="41.0" r="3.5" fill="#00599c"/>
+  <text x="719.1" y="45.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">C++</text>
+  <rect x="764.3" y="26.5" width="71.2" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="780.3" cy="41.0" r="3.5" fill="#dea584"/>
+  <text x="792.8" y="45.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Rust</text>
+  <rect x="845.5" y="26.5" width="63.7" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="861.5" cy="41.0" r="3.5" fill="#4479a1"/>
+  <text x="874.0" y="45.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">SQL</text>
+  <rect x="919.2" y="26.5" width="78.8" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="935.2" cy="41.0" r="3.5" fill="#e34f26"/>
+  <text x="947.7" y="45.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">HTML5</text>
+  <rect x="282.5" y="65.5" width="71.2" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="298.5" cy="80.0" r="3.5" fill="#1572b6"/>
+  <text x="311.0" y="84.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">CSS3</text>
+  <rect x="363.7" y="65.5" width="78.8" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="379.7" cy="80.0" r="3.5" fill="#89e051"/>
+  <text x="392.2" y="84.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Shell</text>
+  <line x1="50" y1="115.0" x2="1072" y2="115.0" stroke="#21262d" stroke-width="1"/>
+  <text x="50" y="154.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">MARKUP</text>
+  <rect x="282.5" y="135.5" width="101.5" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="298.5" cy="150.0" r="3.5" fill="#8b949e"/>
+  <text x="311.0" y="154.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Markdown</text>
+  <rect x="394.0" y="135.5" width="78.8" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="410.0" cy="150.0" r="3.5" fill="#2eaa9b"/>
+  <text x="422.5" y="154.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">LaTeX</text>
+  <line x1="50" y1="185.0" x2="1072" y2="185.0" stroke="#21262d" stroke-width="1"/>
+  <text x="50" y="224.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">FRAMEWORKS</text>
+  <rect x="282.5" y="205.5" width="93.9" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="298.5" cy="220.0" r="3.5" fill="#c9d1d9"/>
+  <text x="311.0" y="224.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Next.js</text>
+  <rect x="386.4" y="205.5" width="78.8" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="402.4" cy="220.0" r="3.5" fill="#61dafb"/>
+  <text x="414.9" y="224.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">React</text>
+  <rect x="475.2" y="205.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="491.2" cy="220.0" r="3.5" fill="#ff3e00"/>
+  <text x="503.7" y="224.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Svelte</text>
+  <rect x="571.6" y="205.5" width="131.7" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="587.6" cy="220.0" r="3.5" fill="#38bdf8"/>
+  <text x="600.1" y="224.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Tailwind CSS</text>
+  <rect x="713.3" y="205.5" width="93.9" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="729.3" cy="220.0" r="3.5" fill="#5fa04e"/>
+  <text x="741.8" y="224.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Node.js</text>
+  <rect x="817.2" y="205.5" width="93.9" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="833.2" cy="220.0" r="3.5" fill="#a1a8b0"/>
+  <text x="845.7" y="224.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Express</text>
+  <rect x="921.1" y="205.5" width="109.0" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="937.1" cy="220.0" r="3.5" fill="#a1a8b0"/>
+  <text x="949.6" y="224.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Socket.io</text>
+  <rect x="282.5" y="244.5" width="101.5" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="298.5" cy="259.0" r="3.5" fill="#47848f"/>
+  <text x="311.0" y="263.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Electron</text>
+  <rect x="394.0" y="244.5" width="109.0" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="410.0" cy="259.0" r="3.5" fill="#6ee7b7"/>
+  <text x="422.5" y="263.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">LangChain</text>
+  <rect x="513.0" y="244.5" width="78.8" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="529.0" cy="259.0" r="3.5" fill="#a1a8b0"/>
+  <text x="541.5" y="263.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Flask</text>
+  <line x1="50" y1="294.0" x2="1072" y2="294.0" stroke="#21262d" stroke-width="1"/>
+  <text x="50" y="333.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">DATABASES</text>
+  <rect x="282.5" y="314.5" width="116.6" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="298.5" cy="329.0" r="3.5" fill="#4169e1"/>
+  <text x="311.0" y="333.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">PostgreSQL</text>
+  <rect x="409.1" y="314.5" width="93.9" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="425.1" cy="329.0" r="3.5" fill="#47a248"/>
+  <text x="437.6" y="333.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">MongoDB</text>
+  <rect x="513.0" y="314.5" width="78.8" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="529.0" cy="329.0" r="3.5" fill="#00758f"/>
+  <text x="541.5" y="333.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">MySQL</text>
+  <rect x="601.8" y="314.5" width="78.8" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="617.8" cy="329.0" r="3.5" fill="#ff4438"/>
+  <text x="630.3" y="333.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Redis</text>
+  <rect x="690.6" y="314.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="706.6" cy="329.0" r="3.5" fill="#5a67d8"/>
+  <text x="719.1" y="333.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Prisma</text>
+  <line x1="50" y1="364.0" x2="1072" y2="364.0" stroke="#21262d" stroke-width="1"/>
+  <text x="50" y="403.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">ML &amp; DATA</text>
+  <rect x="282.5" y="384.5" width="93.9" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="298.5" cy="399.0" r="3.5" fill="#ee4c2c"/>
+  <text x="311.0" y="403.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">PyTorch</text>
+  <rect x="386.4" y="384.5" width="131.7" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="402.4" cy="399.0" r="3.5" fill="#ffd21e"/>
+  <text x="414.9" y="403.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Hugging Face</text>
+  <rect x="528.1" y="384.5" width="71.2" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="544.1" cy="399.0" r="3.5" fill="#5b8def"/>
+  <text x="556.6" y="403.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">ONNX</text>
+  <rect x="609.4" y="384.5" width="116.6" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="625.4" cy="399.0" r="3.5" fill="#ff6f00"/>
+  <text x="637.9" y="403.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">TensorFlow</text>
+  <rect x="736.0" y="384.5" width="78.8" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="752.0" cy="399.0" r="3.5" fill="#d00000"/>
+  <text x="764.5" y="403.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Keras</text>
+  <rect x="824.8" y="384.5" width="131.7" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="840.8" cy="399.0" r="3.5" fill="#f7931e"/>
+  <text x="853.3" y="403.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">scikit-learn</text>
+  <rect x="966.5" y="384.5" width="78.8" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="982.5" cy="399.0" r="3.5" fill="#4dabcf"/>
+  <text x="995.0" y="403.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">NumPy</text>
+  <rect x="282.5" y="423.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="298.5" cy="438.0" r="3.5" fill="#e70488"/>
+  <text x="311.0" y="442.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Pandas</text>
+  <rect x="378.9" y="423.5" width="116.6" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="394.9" cy="438.0" r="3.5" fill="#4c8cbf"/>
+  <text x="407.4" y="442.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Matplotlib</text>
+  <rect x="505.5" y="423.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="521.5" cy="438.0" r="3.5" fill="#5c3ee8"/>
+  <text x="534.0" y="442.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">OpenCV</text>
+  <line x1="50" y1="473.0" x2="1072" y2="473.0" stroke="#21262d" stroke-width="1"/>
+  <text x="50" y="512.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">DEVOPS</text>
+  <rect x="282.5" y="493.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="298.5" cy="508.0" r="3.5" fill="#2496ed"/>
+  <text x="311.0" y="512.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Docker</text>
+  <rect x="378.9" y="493.5" width="63.7" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="394.9" cy="508.0" r="3.5" fill="#f05032"/>
+  <text x="407.4" y="512.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Git</text>
+  <rect x="452.5" y="493.5" width="78.8" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="468.5" cy="508.0" r="3.5" fill="#fcc624"/>
+  <text x="481.0" y="512.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Linux</text>
+  <rect x="541.3" y="493.5" width="93.9" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="557.3" cy="508.0" r="3.5" fill="#ff6c37"/>
+  <text x="569.8" y="512.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Postman</text>
+  <rect x="645.3" y="493.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="661.3" cy="508.0" r="3.5" fill="#fcc72b"/>
+  <text x="673.8" y="512.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Vitest</text>
+  <rect x="741.6" y="493.5" width="116.6" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="757.6" cy="508.0" r="3.5" fill="#2ead33"/>
+  <text x="770.1" y="512.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Playwright</text>
+  <line x1="50" y1="543.0" x2="1072" y2="543.0" stroke="#21262d" stroke-width="1"/>
+  <text x="50" y="582.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">CLOUD</text>
+  <rect x="282.5" y="563.5" width="63.7" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="298.5" cy="578.0" r="3.5" fill="#ff9900"/>
+  <text x="311.0" y="582.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">AWS</text>
+  <rect x="356.2" y="563.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="372.2" cy="578.0" r="3.5" fill="#c9d1d9"/>
+  <text x="384.7" y="582.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Vercel</text>
+  <rect x="452.5" y="563.5" width="93.9" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="468.5" cy="578.0" r="3.5" fill="#00c7b7"/>
+  <text x="481.0" y="582.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Netlify</text>
+  <rect x="556.5" y="563.5" width="116.6" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="572.5" cy="578.0" r="3.5" fill="#f38020"/>
+  <text x="585.0" y="582.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Cloudflare</text>
+  <rect x="683.1" y="563.5" width="101.5" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="699.1" cy="578.0" r="3.5" fill="#ffca28"/>
+  <text x="711.6" y="582.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Firebase</text>
+  <rect x="794.5" y="563.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="810.5" cy="578.0" r="3.5" fill="#46e3b7"/>
+  <text x="823.0" y="582.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Render</text>
+  <line x1="50" y1="613.0" x2="1072" y2="613.0" stroke="#21262d" stroke-width="1"/>
+  <text x="50" y="652.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">WEB3</text>
+  <rect x="282.5" y="633.5" width="101.5" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="298.5" cy="648.0" r="3.5" fill="#c9d1d9"/>
+  <text x="311.0" y="652.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Solidity</text>
+  <rect x="394.0" y="633.5" width="101.5" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="410.0" cy="648.0" r="3.5" fill="#8a92b2"/>
+  <text x="422.5" y="652.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Ethereum</text>
+  <rect x="505.5" y="633.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
+  <circle cx="521.5" cy="648.0" r="3.5" fill="#14f195"/>
+  <text x="534.0" y="652.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Solana</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="112" viewBox="0 0 1120 112" role="img" aria-label="Profile summary — by the numbers">
+  <rect width="1120" height="112" fill="#0d1117"/>
+
+  <line x1="48" y1="12" x2="1072" y2="12" stroke="#21262d" stroke-width="1"/>
+
+  <text x="50" y="46"
+        font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="10" letter-spacing="1.7" fill="#7d8590">02 / PROFILE SUMMARY</text>
+
+  <text x="48" y="90"
+        font-family="Georgia, 'Times New Roman', 'Playfair Display', serif"
+        font-size="30" font-style="italic" font-weight="700"
+        fill="#f0f6fc">by the numbers.</text>
+</svg>
