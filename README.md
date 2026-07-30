@@ -12,15 +12,6 @@
   <img src="./assets/now.svg" width="100%" alt="Now: building scalable web and AI products, contributing to open source, learning blockchain technology" />
 </p>
 
-- 📝 I regularly write articles on **https://medium.com/@rajdeep01**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1dWRhT2GSx4StZk2kqGU2UpJLNZCVnuoA/view**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RajdeepKushwaha5&label=PROFILE+VIEWS&style=for-the-badge&color=22c55e" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/RajdeepKushwaha5?label=FOLLOWERS&style=for-the-badge&logo=github&color=22c55e" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/RajdeepKushwaha5?label=TOTAL+STARS&style=for-the-badge&logo=github&color=22c55e" alt="Stars" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Connect+with+me" />
 </p>
