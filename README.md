@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://rajdeep-singh.vercel.app/"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio — rajdeep-singh.vercel.app" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/rajdeep-singh-b658a833a/"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Rajdeep Singh" /></a>&nbsp;
-  <a href="https://x.com/rajdeeptwts"><img src="./assets/link-x.svg" width="31.5%" alt="X — @rajdeeptwts" /></a>
+  <a href="https://x.com/rajdeepstwt"><img src="./assets/link-x.svg" width="31.5%" alt="X — @rajdeepstwt" /></a>
 </p>
 
 <p align="center">
