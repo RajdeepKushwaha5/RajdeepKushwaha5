@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="683" viewBox="0 0 1120 683" role="img" aria-label="Tech stack: LANGUAGES — Python, TypeScript, JavaScript, C, C++, Rust, SQL, HTML5, CSS3, Shell; MARKUP — Markdown, LaTeX; FRAMEWORKS — Next.js, React, Svelte, Tailwind CSS, Node.js, Express, Socket.io, Electron, LangChain, Flask; DATABASES — PostgreSQL, MongoDB, MySQL, Redis, Prisma; ML and DATA — PyTorch, Hugging Face, ONNX, TensorFlow, Keras, scikit-learn, NumPy, Pandas, Matplotlib, OpenCV; DEVOPS — Docker, Git, Linux, Postman, Vitest, Playwright; CLOUD — AWS, Vercel, Netlify, Cloudflare, Firebase, Render; WEB3 — Solidity, Ethereum, Solana">
   <rect width="1120" height="683" fill="#0d1117"/>
-  <text x="50" y="45.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">LANGUAGES</text>
+  <text x="50" y="45.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.1" fill="#7d8590">LANGUAGES</text>
   <rect x="282.5" y="26.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
   <circle cx="298.5" cy="41.0" r="3.5" fill="#3776ab"/>
   <text x="311.0" y="45.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Python</text>
@@ -32,7 +32,7 @@
   <circle cx="379.7" cy="80.0" r="3.5" fill="#89e051"/>
   <text x="392.2" y="84.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Shell</text>
   <line x1="50" y1="115.0" x2="1072" y2="115.0" stroke="#21262d" stroke-width="1"/>
-  <text x="50" y="154.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">MARKUP</text>
+  <text x="50" y="154.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.1" fill="#7d8590">MARKUP</text>
   <rect x="282.5" y="135.5" width="101.5" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
   <circle cx="298.5" cy="150.0" r="3.5" fill="#8b949e"/>
   <text x="311.0" y="154.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Markdown</text>
@@ -40,7 +40,7 @@
   <circle cx="410.0" cy="150.0" r="3.5" fill="#2eaa9b"/>
   <text x="422.5" y="154.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">LaTeX</text>
   <line x1="50" y1="185.0" x2="1072" y2="185.0" stroke="#21262d" stroke-width="1"/>
-  <text x="50" y="224.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">FRAMEWORKS</text>
+  <text x="50" y="224.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.1" fill="#7d8590">FRAMEWORKS</text>
   <rect x="282.5" y="205.5" width="93.9" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
   <circle cx="298.5" cy="220.0" r="3.5" fill="#c9d1d9"/>
   <text x="311.0" y="224.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Next.js</text>
@@ -72,7 +72,7 @@
   <circle cx="529.0" cy="259.0" r="3.5" fill="#a1a8b0"/>
   <text x="541.5" y="263.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Flask</text>
   <line x1="50" y1="294.0" x2="1072" y2="294.0" stroke="#21262d" stroke-width="1"/>
-  <text x="50" y="333.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">DATABASES</text>
+  <text x="50" y="333.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.1" fill="#7d8590">DATABASES</text>
   <rect x="282.5" y="314.5" width="116.6" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
   <circle cx="298.5" cy="329.0" r="3.5" fill="#4169e1"/>
   <text x="311.0" y="333.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">PostgreSQL</text>
@@ -89,7 +89,7 @@
   <circle cx="706.6" cy="329.0" r="3.5" fill="#5a67d8"/>
   <text x="719.1" y="333.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Prisma</text>
   <line x1="50" y1="364.0" x2="1072" y2="364.0" stroke="#21262d" stroke-width="1"/>
-  <text x="50" y="403.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">ML &amp; DATA</text>
+  <text x="50" y="403.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.1" fill="#7d8590">ML &amp; DATA</text>
   <rect x="282.5" y="384.5" width="93.9" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
   <circle cx="298.5" cy="399.0" r="3.5" fill="#ee4c2c"/>
   <text x="311.0" y="403.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">PyTorch</text>
@@ -121,7 +121,7 @@
   <circle cx="521.5" cy="438.0" r="3.5" fill="#5c3ee8"/>
   <text x="534.0" y="442.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">OpenCV</text>
   <line x1="50" y1="473.0" x2="1072" y2="473.0" stroke="#21262d" stroke-width="1"/>
-  <text x="50" y="512.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">DEVOPS</text>
+  <text x="50" y="512.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.1" fill="#7d8590">DEVOPS</text>
   <rect x="282.5" y="493.5" width="86.4" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
   <circle cx="298.5" cy="508.0" r="3.5" fill="#2496ed"/>
   <text x="311.0" y="512.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Docker</text>
@@ -141,7 +141,7 @@
   <circle cx="757.6" cy="508.0" r="3.5" fill="#2ead33"/>
   <text x="770.1" y="512.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Playwright</text>
   <line x1="50" y1="543.0" x2="1072" y2="543.0" stroke="#21262d" stroke-width="1"/>
-  <text x="50" y="582.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">CLOUD</text>
+  <text x="50" y="582.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.1" fill="#7d8590">CLOUD</text>
   <rect x="282.5" y="563.5" width="63.7" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
   <circle cx="298.5" cy="578.0" r="3.5" fill="#ff9900"/>
   <text x="311.0" y="582.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">AWS</text>
@@ -161,7 +161,7 @@
   <circle cx="810.5" cy="578.0" r="3.5" fill="#46e3b7"/>
   <text x="823.0" y="582.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Render</text>
   <line x1="50" y1="613.0" x2="1072" y2="613.0" stroke="#21262d" stroke-width="1"/>
-  <text x="50" y="652.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">WEB3</text>
+  <text x="50" y="652.5" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.1" fill="#7d8590">WEB3</text>
   <rect x="282.5" y="633.5" width="101.5" height="30" rx="8" fill="#14181c" stroke="#262d34" stroke-width="1"/>
   <circle cx="298.5" cy="648.0" r="3.5" fill="#c9d1d9"/>
   <text x="311.0" y="652.4" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Solidity</text>
