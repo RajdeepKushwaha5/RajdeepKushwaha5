@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="222" viewBox="0 0 1120 222" role="img" aria-label="Rajdeep Singh / full-stack &amp; AI engineer — human in the loop.">
-  <rect width="1120" height="222" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="274" viewBox="0 0 1120 274" role="img" aria-label="Rajdeep Singh / full-stack &amp; AI engineer — human in the loop.">
+  <rect width="1120" height="274" fill="#0d1117"/>
 
   <text x="50" y="26"
         font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
@@ -8,15 +8,15 @@
 
   <line x1="48" y1="44" x2="1072" y2="44" stroke="#21262d" stroke-width="1"/>
 
-  <text x="48" y="134"
+  <text x="48" y="162" textLength="1016" lengthAdjust="spacing"
         font-family="Georgia, 'Times New Roman', 'Playfair Display', serif"
-        font-size="56" font-style="italic" font-weight="700"
+        font-size="104" font-style="italic" font-weight="700"
         fill="#f0f6fc">human in the loop.</text>
 
-  <text x="50" y="176"
+  <text x="50" y="225"
         font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace"
         font-size="15" letter-spacing="0.4"
         fill="#8b949e">full-stack + ai/ml engineer. scalable products, open source, and details that ship.</text>
 
-  <line x1="48" y1="212" x2="1072" y2="212" stroke="#21262d" stroke-width="1"/>
+  <line x1="48" y1="262" x2="1072" y2="262" stroke="#21262d" stroke-width="1"/>
 </svg>
