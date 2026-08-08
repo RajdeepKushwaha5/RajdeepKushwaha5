@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Rajdeep Singh — build boldly, ship relentlessly" width="100%" />
+  <img src="./assets/hero.svg" alt="Rajdeep Singh — human in the loop" width="100%" />
 </p>
 
 <p align="center">
